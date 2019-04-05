@@ -151,3 +151,5 @@ git stash save <message>
 다른 브랜치에서 파일내용 가져오기
 git show <branch_name>:<file_name>
 
+4/5 김이현 
+aaaaaaaaaaaaa
