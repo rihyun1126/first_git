@@ -100,3 +100,6 @@ class Employee(models.Model):
 
 2>다중 데이터베이스에서의 ForeignKey
 https://hangpark.com/django-multi-db-relation/
+
+3>Django 외래키
+https://riptutorial.com/ko/django/example/30649/%EC%99%B8%EB%9E%98-%ED%82%A4
